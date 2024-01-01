@@ -5,14 +5,14 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/blog_profile.png "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Welcome to "Voyage to Asia," where we bring the vibrant tapestry of Asian travel right to your fingertips. Our website is dedicated to guiding you through the enthralling cultures, stunning landscapes, and unforgettable experiences across Japan, Korea, China, India, Thailand, Vietnam, and Cambodia. 
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+Delve into our enriching travel stories, where we share personal adventures and local insights from bustling Tokyo streets to serene Korean temples, from the Great Wall of China to the tranquil backwaters of Kerala, and from the lively markets of Bangkok to the ancient ruins of Angkor Wat. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+"Voyage to Asia" is not just about destinations; it's a comprehensive resource for the practical side of traveling. We provide detailed information on travel budgets for each country, essential tips to enhance your journey, precautionary advice to ensure your safety, and comparative analysis of hotels to help you find the perfect stay. 
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Whether you're planning a budget backpacking trip or a luxurious holiday, our website caters to all types of travelers. With "Voyage to Asia," prepare to immerse yourself in the rich diversity of Asian travels, meticulously planned and beautifully experienced. 
+
+Join us on this voyage, and let's explore Asia together!
