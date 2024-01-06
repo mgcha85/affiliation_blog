@@ -61,6 +61,9 @@ descriptions:
   - cat: Korea
     desc: "Dive into the dynamic culture of Korea with our engaging posts. Learn about Korea's fascinating blend of traditional heritage and modern innovation. Experience everything from the serene countryside and historical palaces of Korea to the cutting-edge urban landscapes and popular culinary trends in cities like Seoul and Busan. Our posts will guide you through the many facets of Korea's allure."
 
+  - cat: Australia
+    desc: "Dive into the dynamic culture of Korea with our engaging posts. Learn about Korea's fascinating blend of traditional heritage and modern innovation. Experience everything from the serene countryside and historical palaces of Korea to the cutting-edge urban landscapes and popular culinary trends in cities like Seoul and Busan. Our posts will guide you through the many facets of Korea's allure."
+
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
