@@ -55,6 +55,9 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
+  - cat: Japan
+    desc: "Explore the land of the rising sun through our posts. Discover Japan's rich history, stunning landscapes, bustling cities, and unique culinary delights. From the tranquil beauty of Kyoto's temples to the vibrant energy of Tokyo's streets, each post offers a glimpse into the diverse experiences that make Japan a must-visit destination."
+
   - cat: Australia
     desc: "Embark on a journey through Australia's awe-inspiring natural wonders and vibrant urban centers. Our posts take you from the rugged Outback to the pristine coastlines, showcasing Australia's diverse wildlife and breathtaking landscapes. Discover the cultural richness of cities like Sydney and Melbourne, where history meets contemporary art and cuisine. Each story is an adventure, revealing the unique spirit and endless opportunities for exploration that Australia offers."
 
