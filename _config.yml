@@ -19,8 +19,8 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/affiliation_blog" # the subpath of your site, e.g. /blog/
-url: "https://mgcha85.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://data-guided-aussie-adventures.com"
 cover: "/assets/blog_header.jpg"
 logo: "/assets/blog_logo.png"
 
