@@ -57,7 +57,6 @@ Experience the best of Melbourne's vibrant culture and stunning natural attracti
 | Adina Apartment Hotel Pentridge Melbourne |      5   |     109 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/83/fe/interlude.jpg?w=700&h=-1&s=1" title="Accommodation-figure0">            |
 | Gundagai Motel                            |      4.5 |      87 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/9c/7f/caption.jpg?w=700&h=-1&s=1" title="Accommodation-figure1">              |
 | Quest East Melbourne                      |      4.5 |     111 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/6b/f5/02/quest-east-melbourne.jpg?w=700&h=-1&s=1" title="Accommodation-figure2"> |
-| The Melbourne Hotel                       |      4.5 |     130 | nan                                                                                                                                                   |
 | Comfort Apartments Royal Gardens          |      4.5 |     125 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/12/0e/91/guest-room.jpg?w=700&h=-1&s=1" title="Accommodation-figure4">           |<br><br><br><br>
 
 ### Mid-range
