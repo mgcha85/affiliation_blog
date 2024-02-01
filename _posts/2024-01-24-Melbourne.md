@@ -53,7 +53,7 @@ Experience the best of Melbourne's vibrant culture and stunning natural attracti
 ### Budget-friendly
 
 | name                                      |   rating |   price | photo                                                                                                                                                 |
-|:------------------------------------------|---------:|--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:------------------------------------------|---------:|--------:|------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Adina Apartment Hotel Pentridge Melbourne |      5   |     109 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/83/fe/interlude.jpg?w=700&h=-1&s=1" title="Accommodation-figure0">            |
 | Gundagai Motel                            |      4.5 |      87 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/17/9c/7f/caption.jpg?w=700&h=-1&s=1" title="Accommodation-figure1">              |
 | Quest East Melbourne                      |      4.5 |     111 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/6b/f5/02/quest-east-melbourne.jpg?w=700&h=-1&s=1" title="Accommodation-figure2"> |
@@ -63,7 +63,7 @@ Experience the best of Melbourne's vibrant culture and stunning natural attracti
 ### Mid-range
 
 | name                                   |   rating |   price | photo                                                                                                                                                     |
-|:---------------------------------------|---------:|--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:---------------------------------------|---------:|--------:|----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Yering Gorge Cottages                  |      5   |     203 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a4/bf/17/experience-breakfast.jpg?w=700&h=-1&s=1" title="Accommodation-figure0">     |
 | Hillview Farmstay                      |      5   |     150 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/86/e0/50/glamping-safari-tent.jpg?w=700&h=-1&s=1" title="Accommodation-figure1">     |
 | Quest Bundoora                         |      4.5 |     149 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/12/1a/67/one-bedroom-apartment.jpg?w=700&h=-1&s=1" title="Accommodation-figure2">    |
@@ -73,13 +73,13 @@ Experience the best of Melbourne's vibrant culture and stunning natural attracti
 ### Luxury
 
 | name         |   rating |   price | photo                                                                                                                                            |
-|:-------------|---------:|--------:|:-------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|---------:|--------:|-------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Port d'Hiver |        5 |     449 | <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/50/f9/25/ella-belle-room.jpg?w=700&h=-1&s=1" title="Accommodation-figure0"> |<br><br><br><br>
 
 ### Top5 restaurants
 
 | name                                 |   rating | photo                                                                                                                                      |
-|:-------------------------------------|---------:|:-------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------------------------------|---------:|-------------------------------------------------------------------------------------------------------------------------------------------:|
 | Foglia di Fico                       |      5   | <img src="https://media-cdn.tripadvisor.com/media/photo-s/1b/5d/3d/b4/foglia-di-fico-s-bottega.jpg?w=700&h=-1&s=1" title="Food-figure0">   |
 | The Melbourne Cafe Restaurant        |      5   | <img src="https://media-cdn.tripadvisor.com/media/photo-s/19/1d/d1/f1/hot-cappuccino.jpg?w=700&h=-1&s=1" title="Food-figure1">             |
 | Melbourne in Lichfield               |      5   | <img src="https://media-cdn.tripadvisor.com/media/photo-s/0f/69/2a/ed/deb-andrew-the-complete.jpg?w=700&h=-1&s=1" title="Food-figure2">    |
@@ -179,6 +179,6 @@ In conclusion, my personal travel experience in Melbourne provided me with a uni
 
 **7 Best Day Trips from Melbourne Within an Hour**
 
-Near_City
+### Near_City
 
 Discover the best places to visit near Melbourne that can be reached within an hour. From scenic coastal drives to picturesque mountain regions, there's something for everyone. Explore the following destinations for a variety of experiences on your day trip from Melbourne.
