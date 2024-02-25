@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discovering the Vibrant Heart of Australia"
+title:  "Alice Springs: A Peaceful town situated in the Northern Territory of Australia"
 date:   2024-02-25 20:20:22.830158
 author: Nalt
 categories: Australia
