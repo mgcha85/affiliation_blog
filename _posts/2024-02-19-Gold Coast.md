@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discovering the Vibrant Heart of Australia"
+title:  "Gold Coast: Located in Queensland's southeast corner"
 date:   2024-02-19 17:53:47.165247
 author: Nalt
 categories: Australia
