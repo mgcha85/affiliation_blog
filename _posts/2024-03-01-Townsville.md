@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discovering the Vibrant Heart of Australia"
+title:  "Townsville is a city situated in North Queensland"
 date:   2024-03-01 20:30:13.275307
 author: Nalt
 categories: Australia
